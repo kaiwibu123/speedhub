@@ -1,1 +1,1 @@
-@𝖕𝖓𝖍𝖚𝖋✩: loadstring(game:HttpGet("https://raw.githubusercontent.com/kaiwibu123/Dupee/refs/heads/main/Script"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kaiwibu123/Dupee/refs/heads/main/Script"))()
